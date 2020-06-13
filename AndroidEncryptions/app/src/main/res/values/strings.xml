@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">AndroidEncryptions</string>
-    <string name="encrypt">Encrypt</string>
-    <string name="decrypt">Decrypt</string>
-    <string name="aes_example_example">AES Encryption Example</string>
-    <string name="enter_text">Enter text to encrypt or decrypt</string>
-    <string name="result_appears_here">Result appears here</string>
-    <string name="decrypt_encrypted">Decrypt this</string>
-</resources>
